@@ -1,0 +1,21 @@
+.ctn-benefits h4 + h4{
+    margin: 10px 0px;
+}
+.btn-benefits{
+    background-color: #4378FF ;
+    padding: 8px;
+    color: #FFFFFF;
+    width: 40%;
+    cursor: pointer;
+    border-radius: 20px;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-weight: 500;
+    font-size: 0.7rem;
+    margin-top: 3px;
+}
+.btn-benefits:hover{
+ background-color: #6a93f8;   
+}
+

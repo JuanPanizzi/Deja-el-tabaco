@@ -1,0 +1,30 @@
+.ctn-smoking-counter{
+    background-color: #FFFFFF;
+    text-align: center;
+    width: 30%;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: -20px -20px #B8D4E4;
+    margin-bottom: 100px;
+}
+.ctn-smoking-counter h3:last-child{
+    font-size: 3rem;
+}
+/* Buttons */
+
+.btn-counter{
+    background-color: #4378FF ;
+    padding: 10px;
+    color: #FFFFFF;
+    width: 60%;
+    cursor: pointer;
+    border-radius: 20px;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    margin-top: 20px;
+    font-weight: 500;
+}
+.btn-counter:hover{
+ background-color: #6a93f8;   
+}
